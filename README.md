@@ -1,4 +1,27 @@
-# Application Test Cases
+# Application QA Test Cases
+
+This repository contains the **manual test cases** for validating the core functionalities of the application.  
+It includes test cases for both **Login** and **Register Account** modules.  
+
+## Repository Purpose
+
+The purpose of this repository is to:
+
+- Ensure the application behaves as expected under various scenarios.  
+- Verify the functionality, UI, and security aspects of Login and Registration processes.  
+- Serve as a reference for QA testers to execute and track testing.  
+- Support testing across all supported browsers and environments.  
+
+The test cases cover:
+
+- Positive and negative scenarios.  
+- Field validations and error messages.  
+- Session, navigation, and usability checks.  
+- Database verification and backend validations.  
+- Cross-browser and cross-environment functionality.
+
+---
+
 
 ## Register Account
 1. Register with mandatory fields  
